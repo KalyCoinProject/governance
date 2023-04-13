@@ -1,0 +1,12 @@
+node_modules/
+build/
+deployments/
+artifacts/
+cache/
+etc/
+tenderly.yaml
+coverage/
+coverage.json
+.idea/
+
+package-lock.json
